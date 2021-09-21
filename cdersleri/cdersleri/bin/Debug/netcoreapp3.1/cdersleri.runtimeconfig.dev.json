@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\aliko\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\aliko\\.nuget\\packages",
+      "D:\\Programlar\\Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}
